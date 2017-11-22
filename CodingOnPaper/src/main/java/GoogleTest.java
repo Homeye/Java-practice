@@ -2,8 +2,9 @@ public class GoogleTest {
 
     /**
      * Searching for two numbers in an array. If the sum of the two numbers is equal to the number you are looking for the result shows the two number's position in the array.
+     *
      * @param ints an array numbers
-     * @param num the number we're looking for
+     * @param num  the number we're looking for
      * @return the position of two numbers in the array
      */
     public GoogleTestResult find(int[] ints, int num) {

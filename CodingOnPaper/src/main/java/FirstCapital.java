@@ -2,7 +2,8 @@ public class FirstCapital {
 
     /**
      * Capitalizes words along the separating character
-     * @param name the String we want to change
+     *
+     * @param name      the String we want to change
      * @param separator
      * @return the capitalized String
      */
