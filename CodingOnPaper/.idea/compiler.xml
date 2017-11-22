@@ -9,8 +9,8 @@
         <module name="CodingOnPaper" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CodingOnPaper" target="1.5" />
+    <bytecodeTargetLevel target="9">
+      <module name="CodingOnPaper" target="9" />
     </bytecodeTargetLevel>
   </component>
 </project>

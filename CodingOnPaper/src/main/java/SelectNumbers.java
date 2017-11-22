@@ -13,7 +13,7 @@ public class SelectNumbers {
      * @return the numbers from the array
      */
     public List<Integer> selectNumbers(List<Integer> numbers, int firstDivider, int secondDivider) {
-        List<Integer> result = new ArrayList<Integer>();
+        List<Integer> result = new ArrayList<>();
 
         for (Integer integer : numbers) {
             if (integer % firstDivider == 0 && integer % secondDivider == 0) {

@@ -11,7 +11,7 @@ public class Primes {
      * @return the found prime numbers
      */
     public List<Integer> findPrimes(int from, int howMany) {
-        List<Integer> result = new ArrayList<Integer>();
+        List<Integer> result = new ArrayList<>();
         while (result.size() < howMany && from < Integer.MAX_VALUE) {
             if (isPrime(from)) {
                 result.add(from);

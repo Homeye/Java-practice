@@ -21,7 +21,7 @@ public class BookMain {
 
     public static void main(String[] args) {
 
-        List<Book> bookList = new ArrayList<Book>();
+        List<Book> bookList = new ArrayList<>();
         Book book1 = new Book("Book1", 2014);
         Book book2 = new Book("Book2", 2017);
         Book book3 = new Book("Book3", 2013);

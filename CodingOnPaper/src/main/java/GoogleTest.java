@@ -8,8 +8,8 @@ public class GoogleTest {
      * @return the position of two numbers in the array
      */
     public GoogleTestResult find(int[] ints, int num) {
-        int result1 = 0;
-        int result2 = 0;
+        int result1;
+        int result2;
         for (int i = 0; i < ints.length; i++) {
             for (int j = 0; j < ints.length; j++) {
                 if (i != j && ints[i] + ints[j] == num) {
