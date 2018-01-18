@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a357210c-5c21-4d79-9aaa-1f7428c2fb9c" name="Default" comment="changed the JDK to 1.9, corrected some diamond operators" />
+    <list default="true" id="a357210c-5c21-4d79-9aaa-1f7428c2fb9c" name="Default" comment="changed the JDK to 1.9, corrected some diamond operators">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +16,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="0">
+              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1516292001539" expanded="true" signature="47586:47943" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="47591:47928" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="47653:47915" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="47697:47897" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="47978:50743" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="47991:50728" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48045:48340" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48064:48325" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48127:48305" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48167:48271" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48188:48249" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48373:48638" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48392:48623" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48425:48603" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48465:48569" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48486:48547" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48688:49015" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48707:49000" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48802:48980" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48842:48946" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="48863:48924" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49066:49331" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49085:49316" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49118:49296" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49158:49262" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49179:49240" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49374:49678" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49393:49663" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49465:49643" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49505:49609" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49526:49587" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49729:50084" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49748:50069" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49832:50049" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49872:50015" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="49893:49993" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="50136:50401" ph="..." />
+                <marker date="1516292001539" expanded="true" signature="50155:50386" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../ConsumptionMeter/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,6 +125,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Primes.java" />
         <option value="$PROJECT_DIR$/src/main/java/SelectNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/FindError.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -163,14 +227,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ConsumptionMeter/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -178,6 +242,22 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="462" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="461" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="462" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="461" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="244" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="231" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="323" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1048" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -382,6 +462,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a357210c-5c21-4d79-9aaa-1f7428c2fb9c" name="Default" comment="" />
+      <changelist id="" name="group id changed" comment="" />
       <created>1511351883559</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -499,25 +580,42 @@
       <option name="project" value="LOCAL" />
       <updated>1511363416923</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="group id changed">
+      <created>1516292005703</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1516292005703</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33742005" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -528,9 +626,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -579,7 +676,8 @@
     <MESSAGE value="it just jumped out of nowhere" />
     <MESSAGE value="BookMain: Finds the oldest book from a list&#10;Book: book object for the BookMain class" />
     <MESSAGE value="changed the JDK to 1.9, corrected some diamond operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed the JDK to 1.9, corrected some diamond operators" />
+    <MESSAGE value="group id changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="group id changed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -590,6 +688,77 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1516292001539" expanded="true" signature="47586:47943" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="47591:47928" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="47653:47915" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="47697:47897" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="47978:50743" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="47991:50728" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48045:48340" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48064:48325" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48127:48305" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48167:48271" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48188:48249" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48373:48638" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48392:48623" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48425:48603" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48465:48569" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48486:48547" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48688:49015" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48707:49000" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48802:48980" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48842:48946" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48863:48924" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49066:49331" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49085:49316" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49118:49296" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49158:49262" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49179:49240" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49374:49678" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49393:49663" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49465:49643" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49505:49609" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49526:49587" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49729:50084" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49748:50069" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49832:50049" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49872:50015" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49893:49993" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="50136:50401" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="50155:50386" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -636,13 +805,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/GoogleTestResult.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/GoogleTestResult.class" />
     <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -748,19 +911,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jdk-9/lib/src.zip!/java.base/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="149" column="8" lean-forward="false" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk-9/lib/src.zip!/java.base/java/util/Comparator.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/FindError.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ConsumptionMeter.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ConsumptionMeter/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1516292001539" expanded="true" signature="47586:47943" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="47591:47928" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="47653:47915" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="47697:47897" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="47978:50743" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="47991:50728" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48045:48340" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48064:48325" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48127:48305" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48167:48271" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48188:48249" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48373:48638" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48392:48623" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48425:48603" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48465:48569" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48486:48547" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48688:49015" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48707:49000" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48802:48980" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48842:48946" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="48863:48924" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49066:49331" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49085:49316" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49118:49296" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49158:49262" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49179:49240" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49374:49678" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49393:49663" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49465:49643" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49505:49609" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49526:49587" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49729:50084" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49748:50069" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49832:50049" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49872:50015" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="49893:49993" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="50136:50401" ph="..." />
+            <marker date="1516292001539" expanded="true" signature="50155:50386" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ConsumptionMeter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -833,6 +1053,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
